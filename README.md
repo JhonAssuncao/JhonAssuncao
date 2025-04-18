@@ -84,7 +84,7 @@ Olá, me chamo Jhonata Assunção, tenho 19 anos e sou natural do Amazonas. Conc
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JhonAssuncao&show_icons=true&theme=synthwave&locale=pt-br" 
   />
@@ -92,7 +92,7 @@ Olá, me chamo Jhonata Assunção, tenho 19 anos e sou natural do Amazonas. Conc
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180"
+      height="160"
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=JhonAssuncao&show_icons=true&theme=synthwave&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
