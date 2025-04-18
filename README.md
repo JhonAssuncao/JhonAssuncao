@@ -16,6 +16,8 @@ Olá, me chamo Jhonata Assunção, tenho 19 anos e sou natural do Amazonas. Conc
 
 ---
 
+#
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 ### 🤖 Linguagens e Tecnologias
@@ -79,6 +81,8 @@ Olá, me chamo Jhonata Assunção, tenho 19 anos e sou natural do Amazonas. Conc
 
 <br/>
 <br/>
+
+#
 
 ### 📊 Estatísticas
 
