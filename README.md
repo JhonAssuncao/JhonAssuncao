@@ -4,6 +4,12 @@
 
 Olá, me chamo Jhonata Assunção, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médio no IFAM, com curso técnico de Manutenção e Suporte em Informática. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas na FMF Faculdade Martha Falcão - Wyden. Sou apaixonado pela area de tecnologia sempre buscando aprender e aplicar novos conhecimentos na prática.
 
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+### 📞Connect with me!
+
 <p align="left">
     <a href="https://www.instagram.com/jhon.tml/">
         <img 
@@ -13,12 +19,6 @@ Olá, me chamo Jhonata Assunção, tenho 19 anos e sou natural do Amazonas. Conc
         />
     </a>
 </p>
-
----
-
-#
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 ### 🤖 Linguagens e Tecnologias
 
