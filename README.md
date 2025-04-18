@@ -2,7 +2,7 @@
 
 **`Desenvolvedor iniciante`**
 
-Olá, me chamo Jhonata Assunção, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médio no IFAM, com curso técnico de Manutenção e Suporte em Informática. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas na FMF Faculdade Martha Falcão - Wyden. Sou apaixonado pela area de tecnologia sempre buscando aprender e aplicar novos conhecimentos na prática.
+Olá, me chamo Jhonata Assunção, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médio no IFAM, com curso técnico de Manutenção e Suporte em Informática. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas na FMF Faculdade Martha Falcão - Wyden. Sou apaixonado pela área de tecnologia sempre buscando aprender e aplicar novos conhecimentos na prática.
 
 #
 
